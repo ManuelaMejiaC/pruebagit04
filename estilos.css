@@ -11,3 +11,13 @@ h1, h2{
 body {
     color:blue;
 }
+#t4{
+    color: goldenrod;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.estilo1{
+    color:aqua;
+    font-style: italic;
+    font-size: 25px;
+}

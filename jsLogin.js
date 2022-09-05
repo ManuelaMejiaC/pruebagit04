@@ -1,3 +1,4 @@
+//Los eventos se llaman desde las etiquetas HTML
 const user = "ManuelaMC"
 const pw = 1234
 function verificar(){
